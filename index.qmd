@@ -1,0 +1,10 @@
+---
+title: An example
+---
+
+```{mermaid}
+flowchart TB
+
+a-->b
+b-->c
+```
